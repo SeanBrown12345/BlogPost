@@ -4,7 +4,7 @@ page-layout: full
 title-block-banner: true
 ---
 
-![Kasparov vs Deep Blue](origin.jpg){width=70%}
+![Kasparov vs Deep Blue](origin.jpg){width=80%}
 
 
 The year is 1997. A chess match is underway between the reigning world champion of the past 15 years, Garry Kasparov, and the underdog challenger, IBM’s Deep Blue. A year earlier, the same matchup had taken place and ended in a clear victory for Kasparov.  Now, in New York for a rematch only a year later, many were wondering what could possibly have changed in such a short amount of time. It was hard to believe that a computer could possibly outplay the greatest chess player of all time.
